@@ -77,11 +77,11 @@ const BACKGROUND_FADE_START = Math.max(
 );
 
 const TYPED_LINES = [
-  "> tina",
+  "> rahat",
   "...",
-  "> today is your birthday",
+  "> happiest birthday",
   "...",
-  "> so i made you this computer program",
+  "> i love you sooo muchhhh",
   "...",
   "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
 ];
